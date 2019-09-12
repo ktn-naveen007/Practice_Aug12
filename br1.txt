@@ -1,1 +1,1 @@
-step 1 to push to br1 modified from br2 changed in master
+step 1 to push to br1 updted in br1 to conflict
